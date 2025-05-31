@@ -28,6 +28,4 @@ Muestra columnas: ID, Modelo, Precio, Descripción y Acciones. Cada fila tiene b
 
 package.json (frontend)
 Etse lo utilicé para definir las dependencias para React, axios: Para hacer peticiones HTTP al backend y react, react-dom, react-scripts.
-
-Este proyecto de zapatería implementa una aplicación web full stack utilizando herramientas con las cuales se logró crear un sistema funcional que  permite
-gestionar productos mediante un CRUD completo (crear, leer, actualizar y eliminar zapatos). 
+ 
